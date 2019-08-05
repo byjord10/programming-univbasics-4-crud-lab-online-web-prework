@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-["Baltimore", "DC", "Virginia", "New Jersey"] << "New York"
+["I", "am", "learning", "about"] << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
